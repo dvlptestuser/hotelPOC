@@ -12,11 +12,6 @@ This is an POC repository where in I've used in memory H2 database for storing d
   8)getAllCities<br /><br />
 
 
-**What is taken care:**<br />
-  AOP's are used to handle cross cutting concerns<br />
-  Followed TDD approach<br />
-  Controller advices<br /><br />
-
 
 **What can be added?**<br />
   Swager<br />
